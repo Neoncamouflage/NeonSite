@@ -1,0 +1,9 @@
+# .gitignore
+node_modules/
+*.pyc
+*.class
+*.sass-cache/
+/tmp
+/config.json
+*neontest.html
+*.log
